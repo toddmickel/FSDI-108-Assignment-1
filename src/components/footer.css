@@ -1,0 +1,8 @@
+.footer-page {
+    border: 1px solid blue;
+    padding: 2px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
